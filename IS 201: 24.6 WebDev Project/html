@@ -1,0 +1,27 @@
+ <!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Maximo Torres - Portfolio</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Maximo Torres</a>
+    <div class="navbar-nav">
+      <a class="nav-item nav-link" href="resume.html">Resume</a>
+      <a class="nav-item nav-link" href="scratch.html">Scratch</a>
+    </div>
+  </nav>
+  <div class="container mt-5">
+    <h1>Welcome to My Professional Portfolio</h1>
+    <p>This site highlights my background, interests, and development skills.</p>
+  </div>
+  <a href="HTML.1/Resume.html">Resume</a>
+  <a href="HTML.1/GamePage.html">Game Page</a>
+  <a href="HTML.1/Scratch.html">Scratch Page</a>
+</body>
+</html>
+
